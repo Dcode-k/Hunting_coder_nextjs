@@ -114,3 +114,15 @@
     flex-direction: column;
   }
 }
+
+.mainnav ul{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+.mainnav ul li{
+  list-style: none;
+  margin-right: 10px;
+}
